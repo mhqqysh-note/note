@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/creation/"}
+{"dg-publish":true,"permalink":"/creation/","dgPassFrontmatter":true,"created":"2025-11-05T15:45:39.217-06:00","updated":"2025-11-05T15:53:26.420-06:00"}
 ---
 
 
