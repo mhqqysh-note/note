@@ -7,9 +7,9 @@
 
 1. CS coures in UIUC
 	1. 
-	2. [[CS course/CS407\|CS407]]
+	2. [[CS407\|CS407]]
 	3. CS
 2. CS coures in Standford
-	1. [[CS course/CS285-Deep Reinforcement learning\|CS285-Deep Reinforcement learning]]
+	1. [[CS285-Deep Reinforcement learning\|CS285-Deep Reinforcement learning]]
 	2. 
 
