@@ -1,16 +1,16 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/notes-menu/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-11-05T15:50:20.623-06:00","updated":"2025-11-05T16:22:40.691-06:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/notes-menu/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-11-05T15:50:20.623-06:00","updated":"2025-11-05T16:33:17.407-06:00"}
 ---
 
 
-# Notes Menu
+# Notes
 
+1. CS coures in UIUC
+	1. 
+	2. [[CS course/CS407\|CS407]]
+	3. CS
+2. CS coures in Standford
+	1. [[CS course/CS285-Deep Reinforcement learning\|CS285-Deep Reinforcement learning]]
+	2. 
 
-这里才是你笔记的正文内容。
-（你之前写在这里的 dg-home: true 和 dg-publish: true 应该被删除）
-![Pasted image 20251105155620.png|505x179](/img/user/pic/Pasted%20image%2020251105155620.png)
-[[creation\|creation]]
 [[Untitled\|Untitled]]
-[[CS407\|CS407]]
-[[Untitled 3\|Untitled 3]]
-[[Untitled 1\|Untitled 1]]
