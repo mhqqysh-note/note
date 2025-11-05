@@ -1,0 +1,24 @@
+<aside class="sidebar">
+  
+  <h2>{{ title }}</h2>
+  <h3>{{ notes_title }}</h3>
+  <h4>{{ namespaces_title }}</h4>
+
+  <p class="description">
+    {{ namespaces_desc_en }}<br>
+    {{ namespaces_desc_zh }}
+  </p>
+
+  <ul>
+    {% for item in items %}
+    <li>
+      {{ item.name_en }} {{ item.name_zh }}
+      <span class="sub-text">
+        {{ item.desc_en }}<br>
+        {{ item.desc_zh }}
+      </span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</aside>
