@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/notes-menu/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-11-05T15:50:20.623-06:00","updated":"2025-11-05T16:19:23.370-06:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/notes-menu/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-11-05T15:50:20.623-06:00","updated":"2025-11-05T16:22:40.691-06:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 这里才是你笔记的正文内容。
 （你之前写在这里的 dg-home: true 和 dg-publish: true 应该被删除）
-![Pasted image 20251105155620.png](/img/user/Pasted%20image%2020251105155620.png)
+![Pasted image 20251105155620.png|505x179](/img/user/pic/Pasted%20image%2020251105155620.png)
 [[creation\|creation]]
 [[Untitled\|Untitled]]
 [[CS407\|CS407]]
