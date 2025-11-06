@@ -5,9 +5,6 @@
     font-weight: lighter;
     font-style: normal;
   }
-
-
-
   @font-face {
     font-family: "LXGWWenKai";
     src: url("../fonts/lxgw-wenkai/LXGWWenKai-Regular.ttf") format("truetype");
@@ -24,4 +21,23 @@
   
   body {
     font-family: LXGWWenKai;
+  }
+
+  @font-face {
+    font-family: "LXGWenKai";
+    src: url('../../fonts/lgxw-wenkai/LXGWWenKai-Regular.ttf') format("truetype");
+    font-weight: 400; /* normal */
+    font-style: normal;
+  }
+  /* ... (其他粗细的定义) ... */
+  
+  /* 2. 定义一个使用这个字体的 *类* (class) */
+  .use-lxgw-font {
+    font-family: 'LXGWenKai', sans-serif;
+  }
+  
+  /* 3. (可选) 你可以把 body 的字体改回默认值，或者删掉 body 设置 */
+  body {
+    /* font-family: 'LXGWenKai';  <-- 把这行删掉或注释掉 */
+    font-family: sans-serif; /* 或者设为默认值 */
   }
